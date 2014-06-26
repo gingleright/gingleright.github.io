@@ -46,3 +46,7 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+body {font-family: georgia}
+h1{float: left;}
+p1{clear: both;}
