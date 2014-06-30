@@ -50,14 +50,14 @@ table {
 /* END RESET - My CSS*/
 body{width: 1024px;
  	margin: 0 auto;
- 	font-family: helvetica, Arial, sans-serif;}
+ 	font-family: 'Oswald', sans-serif;}
  header {height:70px;}
  p {font-size:17px;
  	line-height:1.3em;
  	text-align: center;
  	margin-top: .75em;}	
  h1{font-size:60px;
-   float:left;
+        float:left;
    margin-top: 10px;}
  h2{font-size:24px;
    text-align: center;
