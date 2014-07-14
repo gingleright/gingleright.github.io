@@ -87,3 +87,7 @@ body{width: 1024px;
     padding-left: 10px;
     text-transform: uppercase;
 }
+.jumbotron {
+    background-image: url('http://gregingleright.weebly.com/uploads/8/7/2/1/8721334/1674470_orig.png');
+    height: 500px;
+}
