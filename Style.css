@@ -96,3 +96,7 @@ body{width: 1024px;
     font-size: 48px;
     font-weight: bold;
 }
+
+.container {
+	color: #5a5a5a;
+}
